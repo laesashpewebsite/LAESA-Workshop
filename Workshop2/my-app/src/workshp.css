@@ -1,0 +1,21 @@
+#main-tag{
+	color: blue;
+	text-align: center;
+	background-color: #1111;
+}
+.banner{
+	width:100%;
+}
+.pfp{
+	width: 40%;
+}
+h2{
+	font-style: italic;
+}
+li{
+	list-style: none;
+	text-align: left;
+}
+span{
+	font-weight: bold;
+}
