@@ -1,0 +1,29 @@
+.main {
+  background-color: antiquewhite;
+  color: black;
+  text-align: center;
+}
+.banner {
+  width: 100%;
+}
+#pfp {
+  width: 30%;
+}
+.contact {
+  color: black;
+}
+.seperator {
+  border-bottom: solid;
+  margin-bottom: 30px;
+}
+h3 {
+  text-decoration: underline;
+}
+li {
+  list-style: none;
+  text-align: left;
+}
+.contact-list-title {
+  text-decoration: underline;
+  font-weight: 700;
+}
